@@ -6,8 +6,9 @@ export const metadata = {
     template: "%s | Metaversus",
     default: "Metaversus",
   },
-  description: "The official Next.js Learn Dashboard built with App Router.",
-  metadataBase: new URL("https://nextjs-dashboard-five-dun-58.vercel.app"),
+  description:
+    "Metaverse is a new thing in the future, where you can enjoy the virtual world by feeling like it&apos;s really real",
+  metadataBase: new URL("https://metaversus-nine-delta.vercel.app/"),
 };
 
 export default function RootLayout({ children }) {
